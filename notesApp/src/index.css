@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-primary: "PT Sans", sans-serif;
+  --color-cool-toned-gray: #e8e4e4;
+  --background-lb: #5aa7ef;
+}
+
+:root {
+  background-color: #2c2c2c;
+}
